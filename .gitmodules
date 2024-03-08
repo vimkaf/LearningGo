@@ -1,0 +1,3 @@
+[submodule "2/ngtime"]
+	path = 2/ngtime
+	url = https://github.com/vimkaf/ngtime
